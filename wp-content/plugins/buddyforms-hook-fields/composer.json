@@ -1,0 +1,24 @@
+{
+  "name": "themekraft/buddyforms-hook-fields",
+  "description": "Have full control of your fields output. Hook your BuddyForms Form Fields via options and display them everywhere on your site.",
+  "type": "wordpress-plugin",
+  "keywords": [
+    "form builder",
+    "contact forms",
+    "post forms",
+    "user-generated content",
+    "custom post types",
+    "user submitted posts",
+    "contact form",
+    "form",
+    "forms",
+    "frontend post"
+  ],
+  "homepage": "https://themekraft.com/buddyforms/",
+  "license": "GPLv2 or later",
+  "minimum-stability": "dev",
+  "require": {
+    "consolidation/robo": "^1.0.0",
+    "bamarni/composer-bin-plugin": "dev-master"
+  }
+}
